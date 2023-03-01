@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17331cf4-e02e-4bce-a90a-9105126ab6b4" name="Changes" comment="0227">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e0072fbf1628c97f2db813bafd012947a3b70721" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_03/_03_StringCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_03/_04_EscapeSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap_03/_02_String2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap_03/_02_String2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap_03/_04_EscapeSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap_03/_04_EscapeSequence.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +132,7 @@
       <workItem from="1676803314166" duration="616000" />
       <workItem from="1676980962413" duration="6004000" />
       <workItem from="1677655233161" duration="192000" />
-      <workItem from="1677655498667" duration="5279000" />
+      <workItem from="1677655498667" duration="6788000" />
     </task>
     <servers />
   </component>
