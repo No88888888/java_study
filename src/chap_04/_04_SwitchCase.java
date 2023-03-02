@@ -28,5 +28,19 @@ public class _04_SwitchCase {
                 System.out.println("끝");
         }
         System.out.println("종료");
+
+        int grade = 1;
+        int price = 7000;
+        switch (grade) {
+            case 1:
+                price += 1000;
+            case 2:
+                price += 1000;
+            case 3:
+                price += 1000;
+                break;
+        }
+        System.out.println(grade + "등급 제품의 가격 : " + price); // 10000원, case1, case2일떄 break없어 모두 적용됨
     }
+
 }
