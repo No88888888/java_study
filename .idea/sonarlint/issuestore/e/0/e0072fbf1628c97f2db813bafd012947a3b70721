@@ -1,0 +1,34 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ÆšÎÿÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éˆœùÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(éîè¾
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡©Âòøÿÿÿÿ
+[
+java:S1854,"9Remove this useless assignment to local variable "error".(Ì¥í²üÿÿÿÿ8ÊâŒ¦ç0
+Q
+java:S1854""6Remove this useless assignment to local variable "s2".(Ø¹‡¤ÿÿÿÿÿ
+L
+java:S1854"6Remove this useless assignment to local variable "s1".(ÔÍí
+[
+java:S1854"ERemove this useless assignment to local variable "convertedScoreInt".(«äÓì
+c
+java:S1854"HRemove this useless assignment to local variable "convertedScoreDouble".(ÂÂ¡ãıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(€èàüøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ”ÆŒ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(›Á”Öûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ë”Š şÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(®µõ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ô¾è“ùÿÿÿÿ
+?
+java:S1905")Remove this unnecessary cast to "double".(Ş¶Ó°
+S	java:S106"9Replace this use of System.out or System.err by a logger.(£ß“ƒşÿÿÿÿ
+T
+java:S1481"9Remove this unused "convertedScoreDouble" local variable.(ÂÂ¡ãıÿÿÿÿ
+L
+java:S1481"6Remove this unused "convertedScoreInt" local variable.(«äÓì
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(Éı£¾úÿÿÿÿ
+M	java:S106$"9Replace this use of System.out or System.err by a logger.(œ™À
+S	java:S106("9Replace this use of System.out or System.err by a logger.(Ã¯ô¥şÿÿÿÿ
+T	java:S106*"9Replace this use of System.out or System.err by a logger.(ğ¤ÙZ8çÆ‹¦ç0
+L
+java:S1481,"*Remove this unused "error" local variable.(Ì¥í²üÿÿÿÿ8ÒâŒ¦ç0
