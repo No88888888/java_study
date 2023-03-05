@@ -1,0 +1,26 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ã¥è”ÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ÿ¹²Ø
+U
+java:S1854&":Remove this useless assignment to local variable "marray".(ñÁôÂşÿÿÿÿ
+O
+java:S1854"9Remove this useless assignment to local variable "seatC".(â–İÁ
+O
+java:S1854
+"9Remove this useless assignment to local variable "seatB".(¤üø£
+O
+java:S1854	"9Remove this useless assignment to local variable "seatA".(¿º°
+@
+java:S1481	"*Remove this unused "seatA" local variable.(¿º°
+@
+java:S1481
+"*Remove this unused "seatB" local variable.(¤üø£
+@
+java:S1481"*Remove this unused "seatC" local variable.(â–İÁ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(³æ¾Z
+S	java:S106"9Replace this use of System.out or System.err by a logger.(†¸šØıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¿ ñ´
+N	java:S106""9Replace this use of System.out or System.err by a logger.(ı¶äÀ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(Ş‡±â
+F
+java:S1481&"+Remove this unused "marray" local variable.(ñÁôÂşÿÿÿÿ
