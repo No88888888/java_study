@@ -1,0 +1,15 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(è•–•üÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡©Âòøÿÿÿÿ
+V
+java:S1854"ARemove this useless assignment to local variable "DATE_OF_BIRTH".(ä€Ûd
+Q
+java:S1854
+"6Remove this useless assignment to local variable "PI".(È‘¡ðùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÿÁšØüÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(…ŒÀøÿÿÿÿ
+B
+java:S1481
+"'Remove this unused "PI" local variable.(È‘¡ðùÿÿÿÿ
+G
+java:S1481"2Remove this unused "DATE_OF_BIRTH" local variable.(ä€Ûd

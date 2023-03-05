@@ -1,0 +1,23 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(˜ªêÕùÿÿÿÿ8ç«–ê0
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡©Âòøÿÿÿÿ8è«–ê0
+Z
+java:S1854"8Remove this useless assignment to local variable "CODE".(ŸÅ«ûùÿÿÿÿ8ï«–ê0
+\
+java:S1854"?Remove this useless assignment to local variable "dateOfBirth".(õÚ¬Ï8ñ«–ê0
+^
+java:S1854"<Remove this useless assignment to local variable "lastName".(šÏ±šıÿÿÿÿ8ñ«–ê0
+Z
+java:S1854"=Remove this useless assignment to local variable "firstName".(ôæâÔ8ò«–ê0
+\
+java:S1854"?Remove this useless assignment to local variable "nationality".(ò²À8ò«–ê0
+M
+java:S1481"0Remove this unused "nationality" local variable.(ò²À8ÿ«–ê0
+K
+java:S1481".Remove this unused "firstName" local variable.(ôæâÔ8€¬–ê0
+O
+java:S1481"-Remove this unused "lastName" local variable.(šÏ±šıÿÿÿÿ8€¬–ê0
+M
+java:S1481"0Remove this unused "dateOfBirth" local variable.(õÚ¬Ï8¬–ê0
+K
+java:S1481")Remove this unused "CODE" local variable.(ŸÅ«ûùÿÿÿÿ8„¬–ê0

@@ -1,0 +1,16 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ì•ùÕ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ö×Ôş
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ßë§ë
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(’ÄÄøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ñ¾ª–ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ù›¼ìüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(äïŒÅşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(’ÄÄøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ù›¼ìüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(³Ñ¤
+f	java:S128%"LEnd this switch case with an unconditional break, return or throw statement.(úâúÿÿÿÿ
+f	java:S128#"LEnd this switch case with an unconditional break, return or throw statement.(ªëÅŞúÿÿÿÿ
+<	java:S131"""Add a default case to this switch.(»€Ğıÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(ƒ‚€„
