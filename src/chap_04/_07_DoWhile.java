@@ -8,7 +8,7 @@ public class _07_DoWhile {
         int height = 2;
         while (move + height < distance) {
             System.out.println("발차기를 계속합니다");
-            System.out.println(move += 3); ;
+            System.out.println(move += 3);
             
         }
         System.out.println("도착");
