@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17331cf4-e02e-4bce-a90a-9105126ab6b4" name="Changes" comment="0227">
-      <change afterPath="$PROJECT_DIR$/src/chap_06/_04_ParameterAndRetrurn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_06/_05_Overloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_06/_06_WhenToUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_06/_07_VariableScope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_06/_08_MainMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_06/_Quiz_06.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,6 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application._02_String2" />
+      <item itemvalue="Application._03_StringCompare" />
+      <item itemvalue="Application._04_EscapeSequence" />
+      <item itemvalue="Application.Main" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application._02_String2" />
@@ -140,7 +147,7 @@
       <workItem from="1678017362507" duration="3715000" />
       <workItem from="1678030170556" duration="4620000" />
       <workItem from="1678118830145" duration="1486000" />
-      <workItem from="1678198431681" duration="1140000" />
+      <workItem from="1678198431681" duration="3333000" />
     </task>
     <servers />
   </component>
